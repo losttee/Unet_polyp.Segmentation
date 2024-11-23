@@ -44,13 +44,5 @@ python3 infer.py --image_path image.jpeg
 4. Submit for evaluation
 
 ## Links
-Kaggle_Competition: [Kaggle Polyp Segmentation](insert_competition_link_here)
+Kaggle_Competition: [Kaggle Polyp Segmentation](https://www.kaggle.com/c/bkai-igh-neopolyp/overview)
 
-## License
-[Insert license]
-
-## Contributors
-[Insert contributors]
-
-## Acknowledgments
-[Insert acknowledgments]
